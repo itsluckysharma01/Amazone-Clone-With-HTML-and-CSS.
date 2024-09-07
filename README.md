@@ -1,3 +1,3 @@
-# This is read me file
-# https://github.com/itsluckysharma01/Amazone-Clone-With-HTML-and-CSS.guithub.io.git
-# We create a Amazone clone using HTML and CSS.
+# we create a Front Home page of Amazone with using HTML and CSS. 
+#You can also see Project through given link below.👇👇👇
+# https://itsluckysharma01.github.io/Amazone-Clone-With-HTML-and-CSS./
